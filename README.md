@@ -1,1 +1,3 @@
-# learning-gitty
+# Demo
+
+Taking baby steps in learning-gitty...
